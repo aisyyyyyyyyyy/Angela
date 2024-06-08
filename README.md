@@ -1,12 +1,18 @@
 Shop information
-Baker:Aisy (Exquisite 3-star Michelin star bakery chef)
+
+Shop Name:Aisy Cake Shop
+
+Owner:Aisy
+
+Baker:Michelin chef - ALEX KOH(Exquisite 3-star Michelin star bakery chef)
+
 Time open:Monday-Saturday, 7am-7pm
+
 website Link:(https://sweet-indulgence-bakery-i7du1rp.gamma.site/)
 
 Location:
 Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
 State/province/area - Selangor
-Zip code - 42600
 
 E-mail
 info@cakeshop.com
@@ -18,6 +24,10 @@ Chocolate (Available)
 Vanilla (Available)
 Strawberry (Available)
 Blueberry (Available)
+More soon to come!
+
+Most popular cake:
+Chocolate
 
 Icing flavours:
 Chocolate (Available)
@@ -41,7 +51,6 @@ Rectangle cake 6x8 inch size - 50RM (65RM with icing)
 Rectangle cake 8x12 inch size - 100RM (125RM with icing)
 Rectangle cake 12x16 inch size - 200RM (240RM with icing)
 Height is 4 inch for all cakes
-
 
 Ordering process:
 Specify cake tier number (accept 1 to 3)
