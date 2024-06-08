@@ -1,6 +1,6 @@
 Shop information
 
-Shop Name:Aisy Cake Shop
+Shop Name:JJ Cake Shop
 
 Owner:Aisy
 
@@ -26,8 +26,16 @@ Strawberry (Available)
 Blueberry (Available)
 More soon to come!
 
-Most popular cake:
-Chocolate
+Popular cake:
+The classic chocolate cake
+Decadent chocolate
+Vibrant rainbow
+
+Special Deserts:
+Flaky fruit tarts
+Delicate Macarons
+Creamy eclairs
+Indulgent cheesecakes
 
 Icing flavours:
 Chocolate (Available)
@@ -81,7 +89,9 @@ No vegan/free gluten options
 Order can be made via phone/chatbot (or coming to place)
 Deposit is 80% of the total price
 accept various forms of cash
-Tasting appointment can just come to the place directly
+Tasting appointment can just come to the place directly 
+
+Ordering Information:
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
 
 Other products:
